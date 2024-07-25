@@ -46,6 +46,7 @@
 
   &__img {
     position: relative;
+    overflow: hidden;
 
     @include cancel-padding;
 
